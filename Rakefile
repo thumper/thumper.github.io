@@ -1,3 +1,5 @@
+# run locally as: bundle exec jekyll serve --drafts
+
 require "bundler/gem_tasks"
 require "jekyll"
 require "listen"
