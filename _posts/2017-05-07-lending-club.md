@@ -1,9 +1,9 @@
 ---
 layout: single
-title: Rate-of-Return Report - Lending Club
+title: My Experience with Lending Club
 date:   2017-05-07 17:00:00
 categories: posts
-tags: [finance]
+tags: [finance, income report]
 comments: true
 ---
 
@@ -18,7 +18,8 @@ Initially, money started pouring in and I was quite excited by how easy it was..
 until a few months later when some loans stopped paying.
 As more months passed, I saw that several loans were being charged off
 and a couple would start performing again and even pay a late fee.
-Now that all the loans have completed, let's take a look at the numbers involved.
+Now that all the loans have completed, let's take a look at the numbers involved
+for this first portfolio.
 
 | Invested | $6,550 |
 | Weighted Average Rate | 15.52% |
@@ -82,8 +83,10 @@ that I was on the Lending Club platform.
 For another year, I would take the proceeds and fund even more loans, which I
 think helped to boost the numbers a bit.
 Over the years, I've withdrawn $23,343.20, giving me a 16.72% overall return
-spread over over several years (I think most of the loans were three year
-loans).
+spread over over several years.
+I think most of the loans were three year loans, so if we generously assume
+that time period then the annualized rate comes to 5.29% (the cube root of
+1.1672).
 
 The reporting on the site makes all this a little hard to see.
 Lending Club calculates my average yearly rate of return at 6.53%.
@@ -101,7 +104,7 @@ There is clearly some room to make money on this platform.
 Other blogs describe timing your funding with when new opportunities are
 added to the platform so that you get the best pick of loan applicants.
 Also, charge offs tend to level off after the first six months, so there's
-an opportunity to by notes from other lenders.
+an opportunity to buy notes from other lenders.
 My feeling in the end was that specialized (and automated) tools are necessary
 for an investor to make a rate of return better than the stock market on the
 Lending Club platform.
