@@ -68,6 +68,7 @@ but using different names:
 
  * HELOC strategy [7, 8] or Money Merge Account [9]
  * Wealthfront's Portfolio Line of Credit [10, 11]
+ * Infinite Banking: [12]
 
 ## Bottom Line
 
@@ -97,3 +98,4 @@ a few extra points of return... but at the expense of more complicated finances.
 9. [Money Merge Accounts: Are They A Good Deal For Home Borrowers?](https://www.thesimpledollar.com/money-merge-accounts-are-they-a-good-deal-for-home-borrowers/)
 10. [Portfolio Line of Credit](https://www.wealthfront.com/portfolio-line-of-credit)
 11. [The Advantages of a Wealthfront Portfolio Line of Credit Over a Traditional Home Equity Line of Credit](https://blog.wealthfront.com/advantages-wealthfront-portfolio-line-credit-traditional-home-equity-line-credit/)
+12. [Learning to Invest with Life Insurance: Part 1](http://morrisinvest.com/podcast/2017/10/3/ep217-learning-to-invest-with-life-insurance-part-1)
