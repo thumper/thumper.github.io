@@ -1,39 +1,142 @@
 ---
 layout: single
 title: Advice to a Young Engineer
-date:   2019-08-21 17:00:00
+date:   2019-08-19 17:00:00
 categories: posts
 tags: [career, engineering]
 comments: true
 ---
 
-It is near the end of "intern season", and one intern asked me what advice I
+It is near the end of "intern season", and someone asked me what advice I
 would have given my younger self.
-Flippantly, my answer was "none" because I wasn't good at taking advice --
-I always followed my heart back then.
-
-
+Flippantly, my answer was "nothing" because I wasn't good at taking advice --
+I was always following my heart instead of my head -- but after reflecting a
+bit I have put together a list of things I wish I had figured out sooner:
 * be an apprentice, not an intern
+* practice project management
 * learn about expectations for each level
 * Understand the team/org/company goals
-* Don't let people waste your time
+
+That's a terse list which doesn't even scratch the surface of what I really mean...
+
+# Be an Apprentice, Not an Intern
+
+* immerse yourself in the culture
+* pay attention to what your seniors value
+
+What is the difference between an intern and an apprentice?
+
+An intern executes on project tasks under the guidance of their manager.
+They learn fast and code even faster. 
+Largely, what they improve is their technical skill.
+
+An apprentice tries to absorb the values of their mentors.
+They go to lunch with the mentors, where they engage in debates and
+pay attention to the values that are communicated in these personal moments.
+For example, senior engineers love to complain about things -- either
+design decisions, or projects that aren't making proper progress,
+or the lack of proper communication -- so much so that it's a trope.
+But in these complaints are hidden clues as to the values of the mentors.
+
+And more than just lunch, an apprentice is always hanging around.
+Hanging around is important because you want to be there when a quick and
+easy task comes up which the mentor needs done.
+Working on tasks (and later, projects) for the mentor is how you grow your
+skills while getting feedback on your approach and how you could improve
+the result.
+
+A good apprenticeship effectively changes who you are.
+You want to become a "tool" that the mentor can deploy, trusting that your
+values overlap to the point where you need minimal supervision.
+
+Suggestions for further reading:
+* [Forge Your Own Bubble](https://medium.com/the-polymath-project/you-are-the-average-of-the-five-people-you-spend-the-most-time-with-a2ea32d08c72)
+* [The Hidden Influence of Your Community](https://medium.com/the-mission/youre-not-the-average-of-the-five-people-you-surround-yourself-with-f21b817f6e69)
 
 
-pay attention to WHAT they complain about, not WHO
-what do they value
-the best way to learn is by constant contact
-surround yourself with the best, so you can become one of them
-come up with choices, and WRITE DOWN pros and cons of all ideas.  This will guide you towards what you actually value.
-learn to MILESTONE projects
-at each point, you should have either learned something or it's a good place to stop the project
-read "The One Thing"
-Get stuff done, don't just talk about it
-read RISE: 3 Practical Steps to Advancing your Career
-relationships are important
-communication is important <-- don't assume people trust you!
-listen to entrepreneurial podcasts
-real estate ones, like Bigger Pockets, are very inspiring and talk about having the right mindset
-Jordan Harbinger is great for people skills
-Tim Ferriss is great for being open minded and exploring deeply
-* ruthless prioritiezation
+# Practice Project Management
 
+* whiteboard the pros and cons
+* milestone your project
+* ruthlessly prioritize
+
+For a time, I was a contractor working for multiple startups.
+This required making project proposals and predicting the amount of time
+I would spend on the project; and like many engineers, I discovered that
+I was terrible at time estimation!
+To patch the issue, I began doubling all my estimates.
+And began investigating "Software Engineering" practices like UML,
+the Waterfall method, and Agile development.
+
+Over time, I have pruned back my "methods" to a few key ideas.
+
+**Use a whiteboard.**
+Arguments about difficult decisions will tend to go in circles.
+If the decision were easy, it would already be agreed; so we already know
+that we are considering a design decision with trade-offs that are valued
+differently by the participants.
+A typical chat or conversation will focus on the cons of the leading contender,
+listing more and more until the weight of them is untenable and the idea is abandoned.
+These same cons will often suggest a different choice, when then suffers the
+same treatment.
+Eventually, a full circle is made and the original idea is again the leading contender.
+
+A better discipline is to write all ideas on the whiteboard, and then begin listing
+the pros and cons in a table.
+The act of writing it causes you to evaluate all ideas according to the same metrics,
+rather than whatever the focus of discussion at the moment is.
+And looking at these metrics might give you ideas for other possible solutions.
+
+**Milestone your project.**
+Success of a large project comes from the smaller successes that built up to
+the larger one.
+A good milestone is one that enables the team to receive feedback about
+the approach and pivot early if a problem arises.
+Hitting milestones builds confidence in the project for both the folks working
+on the project, and my the managers who worried that it might stall out.
+(Don't underestimate the value of communicating your work to managers!)
+
+**Ruthlessly prioritize.**
+Things happen: friends asking for favors, emergency projects, running out of money.
+Feature creep is another kind of distraction that will occupy the team.
+An amazing project is one where the essential core of the product is decided
+at the start, and a series of milestones that prove out assumptions and interlock
+with each other to first finish that core product and then focus on the
+features that the customers are favoring.
+In order to get there, you have to be laser focused on prioritizing tasks that
+bring you closer to the current milestone.
+You have to learn to say "no" to work that does not serve the project.
+
+A lot of folks get caught up in firefighting,
+working on fresh bugs and generally being helpful to their coworkers.
+The problem with this approach is that unless you are recognized as amazing at
+firefighting, managers will ask "what significant work you accomplish recently?"
+The key to "success within the organization" is to focus on your projects,
+putting your effort into choosing good projects that might be helpful in
+different ways than the firefighting would be.
+
+
+Suggestions for further reading:
+* The One Thing
+* RISE: 3 Practical Steps for Advancing Your Career
+
+
+# Learn about Career Expectations
+
+Why do so many engineers grow up to be managers?
+What I didn't realize when I was young was how your skills build over time,
+making you more impactful in different roles over time.
+
+Over time, I've built up this outline for the different "phases" of a career:
+1. coding machine, fast learner
+2. starting to design and manage a single project, under guidance
+3. designing and running multiple projects, influencing the roadmap of the team
+4. influencing the roadmap of the org
+5. influencing the roadmap of the company
+6. influencing the industry
+
+The first couple of levels are all about coding and running bigger projects,
+but at some point you need to scale back on coding and instead start
+"influencing".
+This can be planting the seeds for projects with engineers, recognizing
+broader problems, or convincing managers to allocate engineers to an idea.
