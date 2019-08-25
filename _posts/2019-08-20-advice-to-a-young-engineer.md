@@ -52,6 +52,7 @@ values overlap to the point where you need minimal supervision.
 Suggestions for further reading:
 * [Forge Your Own Bubble](https://medium.com/the-polymath-project/you-are-the-average-of-the-five-people-you-spend-the-most-time-with-a2ea32d08c72)
 * [The Hidden Influence of Your Community](https://medium.com/the-mission/youre-not-the-average-of-the-five-people-you-surround-yourself-with-f21b817f6e69)
+* [Things I Learned from a Senior Software Engineer](https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html)
 
 
 # Practice Project Management
