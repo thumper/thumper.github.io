@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Thinking about Medical Advocacy
+title: My Introduuction to Elder Care
 date:   2019-08-25 12:00:00
 categories: posts
 tags: [life]
@@ -37,7 +37,7 @@ hospital.
 I had just landed in Europe and had trouble calling back to the US, so I
 only got snippets.
 Largely, my grandmother was confused about being "held captive" in the
-hospital and there were a lot of emotions (concern, judgment, anger)
+hospital and there were a lot of emotions (concern, judgment)
 that she was "allowed" to live all alone.
 
 My grandmother is insistent that she is independent and doesn't need help.
@@ -60,7 +60,7 @@ How do you even help someone who is remote from you, and who doesn't want to be
 helped?
 Where do you start?
 
-Below is the distilled advice from friends on what to ask from the social worker
+Below is the distilled advice from friends on what to ask the social worker
 assigned to my grandmother's case:
 
 * "I want to form a partnership with you (the social worker) to ensure a high standard of care for my grandmother.  There is a lot I don't about healthcare, and I am counting on you to be my and her advocate on the ground there in CT, since our family lives so far away from her.  To start, I have some questions..."
