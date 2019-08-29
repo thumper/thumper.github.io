@@ -35,7 +35,8 @@ They go to lunch with the mentors, where they engage in debates and
 pay attention to the values that are communicated in these personal moments.
 For example, senior engineers love to complain about things -- either
 design decisions, or projects that aren't making proper progress,
-or the lack of proper communication -- so much so that it's a trope.
+or the lack of proper communication -- so much so that "the cranky engineer"
+is a trope.
 But in these complaints are hidden clues as to the values of the mentors.
 
 And more than just lunch, an apprentice is always hanging around.
@@ -47,7 +48,7 @@ the result.
 
 A good apprenticeship effectively changes who you are.
 You want to become a "tool" that the mentor can deploy, trusting that your
-values overlap to the point where you need minimal supervision.
+values overlap to the point where you eventually need minimal supervision.
 
 Suggestions for further reading:
 * [Forge Your Own Bubble](https://medium.com/the-polymath-project/you-are-the-average-of-the-five-people-you-spend-the-most-time-with-a2ea32d08c72)
@@ -78,17 +79,17 @@ that we are considering a design decision with trade-offs that are valued
 differently by the participants.
 A typical chat or conversation will focus on the cons of the leading contender,
 listing more and more until the weight of them is untenable and the idea is abandoned.
-These same cons will often suggest a different choice, when then suffers the
+These same cons will often suggest a different choice, which then suffers the
 same treatment.
 Eventually, a full circle is made and the original idea is again the leading contender.
 
 A better discipline is to write all ideas on the whiteboard, and then begin listing
 the pros and cons in a table.
 The act of writing it causes you to evaluate all ideas according to the same metrics,
-rather than whatever the focus of discussion at the moment is.
+rather than whatever the focus of discussion is at the moment.
 And looking at these metrics might give you ideas for other possible solutions.
 
-## An Example
+## A Whiteboarding Example
 
 A recent problem my group had to look at was how to configure multiple ethernet
 devices on a single host:
@@ -98,7 +99,7 @@ devices on a single host:
 | Static Configuration  | requires work to fetch IP addresses | does not break during infrastructure outage |
 | DHCP | trivial to configure | might have reliability issue if DHCP breaks |
 
-Looking at this told us we had two concerns: reliability, and time to develop.
+Looking at our table told us we had two concerns: reliability, and time to develop.
 The project was more nuanced than that, however: we were trying to get up-and-running
 quickly to unblock another team, so `reliability` was important to us only in the
 long term, and `time` was the most important concern *right now*.
@@ -141,12 +142,12 @@ the larger one.
 A good milestone is one that enables the team to receive feedback about
 the approach and pivot early if a problem arises.
 Hitting milestones builds confidence in the project for both the folks working
-on the project, and my the managers who worried that it might stall out.
+on the project, and the managers who worried that it might stall out.
 (Don't underestimate the value of communicating your work to managers!)
 
 **Ruthlessly prioritize.**
 Things happen: friends asking for favors, emergency projects, running out of money.
-Feature creep is another kind of distraction that will occupy the team.
+Feature creep is also a kind of distraction that will occupy the team.
 An amazing project is one where the essential core of the product is decided
 at the start, and a series of milestones that prove out assumptions and interlock
 with each other to first finish that core product and then focus on the
@@ -158,7 +159,7 @@ You have to learn to say "no" to work that does not serve the project.
 A lot of folks get caught up in firefighting,
 working on fresh bugs and generally being helpful to their coworkers.
 The problem with this approach is that unless you are recognized as amazing at
-firefighting, managers will ask "what significant work you accomplish recently?"
+firefighting, managers will ask "what significant work did you accomplish recently?"
 The key to "success within the organization" is to focus on your projects,
 putting your effort into choosing good projects that might be helpful in
 different ways than the firefighting would be.
@@ -166,15 +167,16 @@ different ways than the firefighting would be.
 
 Suggestions for further reading:
 * [The One Thing](https://smile.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results/dp/1885167776/)
+* [RISE: 3 Practical Steps for Advancing Your Career](https://smile.amazon.com/Rise-Practical-Advancing-Career-Standing/dp/1607742608/)
 
 
 # Learn about Career Expectations
 
 Why do so many engineers grow up to be managers?
 What I didn't realize when I was young was how your skills build over time,
-making you more impactful in different roles over time.
+making you more impactful in different roles as you progress.
 
-Over time, I've built up this outline for the different "phases" of a career:
+This is my outline for thinking about the different "phases" of a career:
 1. coding machine, fast learner
 2. starting to design and manage a single project, under guidance
 3. designing and running multiple projects, influencing the roadmap of the team
@@ -182,11 +184,22 @@ Over time, I've built up this outline for the different "phases" of a career:
 5. influencing the roadmap of the company
 6. influencing the industry
 
-The first couple of levels are all about coding and running bigger projects,
+The first couple of levels are all about coding and running bigger projects.
 but at some point you need to scale back on coding and instead start
 "influencing".
-This can be planting the seeds for projects with engineers, recognizing
+At first, this starts with communicating about your projects.
+Most engineers resist this as being "advertising", but well done
+communication is so much more.
+It is about explaining the problem you are solving, and why it is
+important to the company.
+It is about keeping to the right level of detail for your audience,
+and collecting feedback.
+
+Good written communication starts conversations.
+
+Advanced influencing can be planting the seeds for projects with engineers, recognizing
 broader problems, or convincing managers to allocate engineers to an idea.
+
 
 Suggestions for further reading:
 * [RISE: 3 Practical Steps for Advancing Your Career](https://smile.amazon.com/Rise-Practical-Advancing-Career-Standing/dp/1607742608/)
