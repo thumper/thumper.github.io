@@ -152,8 +152,9 @@ An amazing project is one where the essential core of the product is decided
 at the start, and a series of milestones that prove out assumptions and interlock
 with each other to first finish that core product and then focus on the
 features that the customers are favoring.
-In order to get there, you have to be laser focused on prioritizing tasks that
-bring you closer to the current milestone.
+In order to get there, you have to be
+[laser focused on prioritizing tasks](http://thumper.github.io/posts/ruthless-prioritization/)
+that bring you closer to the current milestone.
 You have to learn to say "no" to work that does not serve the project.
 
 A lot of folks get caught up in firefighting,
