@@ -1,6 +1,6 @@
 ---
 layout: single
-title: My Introduuction to Elder Care
+title: My Introduction to Elder Care
 date:   2019-08-25 12:00:00
 categories: posts
 tags: [life]

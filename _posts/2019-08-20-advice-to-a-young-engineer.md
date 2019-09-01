@@ -89,51 +89,6 @@ The act of writing it causes you to evaluate all ideas according to the same met
 rather than whatever the focus of discussion is at the moment.
 And looking at these metrics might give you ideas for other possible solutions.
 
-## A Whiteboarding Example
-
-A recent problem my group had to look at was how to configure multiple ethernet
-devices on a single host:
-
-| Idea  | Pros  | Cons |
-|-------|-------|------|
-| Static Configuration  | requires work to fetch IP addresses | does not break during infrastructure outage |
-| DHCP | trivial to configure | might have reliability issue if DHCP breaks |
-
-Looking at our table told us we had two concerns: reliability, and time to develop.
-The project was more nuanced than that, however: we were trying to get up-and-running
-quickly to unblock another team, so `reliability` was important to us only in the
-long term, and `time` was the most important concern *right now*.
-
-Unfortunately, one of our partner teams didn't value the priorities the
-same way.
-Were there other approaches we had missed?
-In fact, there were.
-The obvious one is to implement both solutions - DHCP first to unblock the other teams,
-and then later switch to static configuration.
-Another idea we thought of was to keep `eth0` with static configuration (which
-maintains the reliability of health monitoring), and use DHCP for the extra
-ethernet devices.
-
-
-| Idea  | Pros  | Cons |
-|-------|-------|------|
-| Static Configuration  | requires work to fetch IP addresses | does not break during infrastructure outage |
-|                       | estimate a month to complete | easier to debug |
-| DHCP | trivial to configure | might have reliability issue if DHCP breaks |
-|                             | estimate a day to complete | harder to debug |
-| DHCP first, Static Later | best of both worlds  | extra work |
-| eth0 static, others DHCP | reliability would only affect applications, not monitoring | could be confusing to debug problems |
-|                          | estimate a day to complete | |
-
-Thinking about the new idea of mixing static and dynamic configuration together
-identified a new concern: ease of problem diagnosis for the customer.
-
-The point here is that this "process" of pedantically using the whiteboard
-to layout choices can be a tool that helps identify alternative solutions.
-I'm using the whiteboard to offload details from my brain so that I can step
-back and see different aspects.
-Experiment until you find a process that works for you.
-
 
 
 **Milestone your project.**
@@ -167,6 +122,7 @@ different ways than the firefighting would be.
 
 
 Suggestions for further reading:
+* [My whiteboarding example](http://thumper.github.io/posts/whiteboard-brainstorming/)
 * [The One Thing](https://smile.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results/dp/1885167776/)
 * [RISE: 3 Practical Steps for Advancing Your Career](https://smile.amazon.com/Rise-Practical-Advancing-Career-Standing/dp/1607742608/)
 
