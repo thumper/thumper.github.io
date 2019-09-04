@@ -21,7 +21,7 @@ devices on a single host:
 
 | Idea  | Pros  | Cons |
 |-------|-------|------|
-| Static Configuration  | requires work to fetch IP addresses | does not break during infrastructure outage |
+| Static Configuration  | does not break during infrastructure outage | requires work to fetch IP addresses |
 | DHCP | trivial to configure | might have reliability issue if DHCP breaks |
 
 Looking at our table told us we had two concerns: reliability, and time to develop.
@@ -42,8 +42,8 @@ ethernet devices.
 
 | Idea  | Pros  | Cons |
 |-------|-------|------|
-| Static Configuration  | requires work to fetch IP addresses | does not break during infrastructure outage |
-|                       | estimate a month to complete | easier to debug |
+| Static Configuration  | does not break during infrastructure outage | requires work to fetch IP addresses |
+|                       | easier to debug | estimate a month to complete |
 | DHCP | trivial to configure | might have reliability issue if DHCP breaks |
 |                             | estimate a day to complete | harder to debug |
 | DHCP first, Static Later | best of both worlds  | extra work |
